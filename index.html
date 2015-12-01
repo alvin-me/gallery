@@ -16,7 +16,7 @@ weight: 1
           {% for image in gallery.images %}
             <li>
               <figure>
-                <img src="{{ site.baseurl }}{{ gallery.imagefolder }}/{{ image.thumb }}" alt="img01"/>
+                <img src="{{ BASE_PATH }}{{ gallery.imagefolder }}/{{ image.thumb }}" alt="img01"/>
                 <figcaption><h3>{{ image.name }}</h3><p>{{ image.text }}</p></figcaption>
               </figure>
             </li>
@@ -37,7 +37,7 @@ weight: 1
                   <h3>{{ image.name }}</h3>
                   <p>{{ image.detail }}</p>
                 </figcaption>
-                <img src="{{ site.baseurl }}{{ gallery.imagefolder }}/{{ image.large }}" alt="img01"/>
+                <img src="{{ BASE_PATH }}{{ gallery.imagefolder }}/{{ image.large }}" alt="img01"/>
               </figure>
             </li>
           {% endfor %}
