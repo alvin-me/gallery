@@ -1,0 +1,94 @@
+- id: MHXY
+  description: "This is the first gallery"
+  imagefolder: /images
+  images:
+  - name: "Letterpress asymmetrical"
+    thumb: thumb/1.png
+    large: large/1.png
+    text: "Chillwave hoodie ea gentrify aute sriracha consequat."
+    detail: "Pickled hoodie Pinterest 90's proident church-key chambray. Salvia incididunt slow-carb ugh skateboard velit, flannel authentic hoodie lomo fixie photo booth farm-to-table. Minim meggings Bushwick, semiotics Vice put a bird."
+  - name: "Vice velit chia"
+    thumb: thumb/2.png
+    large: large/2.png
+    text: "Laborum tattooed iPhone, Schlitz irure nulla Tonx retro 90's chia cardigan quis asymmetrical paleo."
+    detail: "Tattooed assumenda chambray cray officia. 90's mollit ethnic church-key ex eu pop-up gentrify. Tonx raw denim eu, bitters nesciunt distillery Neutra pop-up. Drinking vinegar Helvetica Truffaut tattooed."
+  - name: "Brunch semiotics"
+    thumb: thumb/3.png
+    large: large/3.png
+    text: "Ex disrupt cray yr, butcher pour-over magna umami kitsch before they sold out commodo."
+    detail: "Gentrify High Life adipisicing, duis slow-carb kogi Tumblr raw denim freegan Echo Park. Fingerstache laboris pork belly messenger bag, you probably haven't heard of them vegan twee Intelligentsia Vice Etsy pickled put a bird on it Godard roof party. Meggings small batch dreamcatcher velit."
+  - name: "Chillwave nihil occupy"
+    thumb: thumb/4.png
+    large: large/4.png
+    text: "In post-ironic gluten-free deserunt, PBR&amp;B non pork belly cupidatat polaroid."
+    detail: "Vice cliche locavore mumblecore vegan wayfarers asymmetrical letterpress hoodie mustache. Shabby chic lomo polaroid, scenester 8-bit Portland Pitchfork VHS tote bag."
+  - name: "Kale chips lomo biodiesel"
+    thumb: thumb/5.png
+    large: large/5.png
+    text: "Pariatur food truck street art consequat sustainable, et kogi beard qui paleo."
+    detail: "Chambray Schlitz pug YOLO, PBR Tumblr semiotics. Flexitarian YOLO ennui Blue Bottle, forage dreamcatcher chillwave put a bird on it craft beer Etsy."
+  - name: "Exercitation occaecat"
+    thumb: thumb/6.png
+    large: large/6.png
+    text: "Street chillwave hoodie ea gentrify."
+    detail: "Cosby sweater hella lomo Thundercats VHS occupy High Life. Synth pop-up readymade single-origin coffee, fanny pack tousled retro. Fingerstache mlkshk ugh hashtag, church-key ethnic street art pug yr."
+  - name: "Letterpress asymmetrical"
+    thumb: thumb/1.png
+    large: large/1.png
+    text: "Chillwave hoodie ea gentrify aute sriracha consequat."
+    detail: "Pickled hoodie Pinterest 90's proident church-key chambray. Salvia incididunt slow-carb ugh skateboard velit, flannel authentic hoodie lomo fixie photo booth farm-to-table. Minim meggings Bushwick, semiotics Vice put a bird."
+  - name: "Vice velit chia"
+    thumb: thumb/2.png
+    large: large/2.png
+    text: "Laborum tattooed iPhone, Schlitz irure nulla Tonx retro 90's chia cardigan quis asymmetrical paleo."
+    detail: "Tattooed assumenda chambray cray officia. 90's mollit ethnic church-key ex eu pop-up gentrify. Tonx raw denim eu, bitters nesciunt distillery Neutra pop-up. Drinking vinegar Helvetica Truffaut tattooed."
+  - name: "Brunch semiotics"
+    thumb: thumb/3.png
+    large: large/3.png
+    text: "Ex disrupt cray yr, butcher pour-over magna umami kitsch before they sold out commodo."
+    detail: "Gentrify High Life adipisicing, duis slow-carb kogi Tumblr raw denim freegan Echo Park. Fingerstache laboris pork belly messenger bag, you probably haven't heard of them vegan twee Intelligentsia Vice Etsy pickled put a bird on it Godard roof party. Meggings small batch dreamcatcher velit."
+  - name: "Chillwave nihil occupy"
+    thumb: thumb/4.png
+    large: large/4.png
+    text: "In post-ironic gluten-free deserunt, PBR&amp;B non pork belly cupidatat polaroid."
+    detail: "Vice cliche locavore mumblecore vegan wayfarers asymmetrical letterpress hoodie mustache. Shabby chic lomo polaroid, scenester 8-bit Portland Pitchfork VHS tote bag."
+  - name: "Kale chips lomo biodiesel"
+    thumb: thumb/5.png
+    large: large/5.png
+    text: "Pariatur food truck street art consequat sustainable, et kogi beard qui paleo."
+    detail: "Chambray Schlitz pug YOLO, PBR Tumblr semiotics. Flexitarian YOLO ennui Blue Bottle, forage dreamcatcher chillwave put a bird on it craft beer Etsy."
+  - name: "Exercitation occaecat"
+    thumb: thumb/6.png
+    large: large/6.png
+    text: "Street chillwave hoodie ea gentrify."
+    detail: "Cosby sweater hella lomo Thundercats VHS occupy High Life. Synth pop-up readymade single-origin coffee, fanny pack tousled retro. Fingerstache mlkshk ugh hashtag, church-key ethnic street art pug yr."
+  - name: "Letterpress asymmetrical"
+    thumb: thumb/1.png
+    large: large/1.png
+    text: "Chillwave hoodie ea gentrify aute sriracha consequat."
+    detail: "Pickled hoodie Pinterest 90's proident church-key chambray. Salvia incididunt slow-carb ugh skateboard velit, flannel authentic hoodie lomo fixie photo booth farm-to-table. Minim meggings Bushwick, semiotics Vice put a bird."
+  - name: "Vice velit chia"
+    thumb: thumb/2.png
+    large: large/2.png
+    text: "Laborum tattooed iPhone, Schlitz irure nulla Tonx retro 90's chia cardigan quis asymmetrical paleo."
+    detail: "Tattooed assumenda chambray cray officia. 90's mollit ethnic church-key ex eu pop-up gentrify. Tonx raw denim eu, bitters nesciunt distillery Neutra pop-up. Drinking vinegar Helvetica Truffaut tattooed."
+  - name: "Brunch semiotics"
+    thumb: thumb/3.png
+    large: large/3.png
+    text: "Ex disrupt cray yr, butcher pour-over magna umami kitsch before they sold out commodo."
+    detail: "Gentrify High Life adipisicing, duis slow-carb kogi Tumblr raw denim freegan Echo Park. Fingerstache laboris pork belly messenger bag, you probably haven't heard of them vegan twee Intelligentsia Vice Etsy pickled put a bird on it Godard roof party. Meggings small batch dreamcatcher velit."
+  - name: "Chillwave nihil occupy"
+    thumb: thumb/4.png
+    large: large/4.png
+    text: "In post-ironic gluten-free deserunt, PBR&amp;B non pork belly cupidatat polaroid."
+    detail: "Vice cliche locavore mumblecore vegan wayfarers asymmetrical letterpress hoodie mustache. Shabby chic lomo polaroid, scenester 8-bit Portland Pitchfork VHS tote bag."
+  - name: "Kale chips lomo biodiesel"
+    thumb: thumb/5.png
+    large: large/5.png
+    text: "Pariatur food truck street art consequat sustainable, et kogi beard qui paleo."
+    detail: "Chambray Schlitz pug YOLO, PBR Tumblr semiotics. Flexitarian YOLO ennui Blue Bottle, forage dreamcatcher chillwave put a bird on it craft beer Etsy."
+  - name: "Exercitation occaecat"
+    thumb: thumb/6.png
+    large: large/6.png
+    text: "Street chillwave hoodie ea gentrify."
+    detail: "Cosby sweater hella lomo Thundercats VHS occupy High Life. Synth pop-up readymade single-origin coffee, fanny pack tousled retro. Fingerstache mlkshk ugh hashtag, church-key ethnic street art pug yr."

@@ -17,7 +17,7 @@ time, mark, audio, video {
 }
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; }
 blockquote, q { quotes: none; }
-article .main_content blockquote {
+article .main-content blockquote {
   padding: 10px 10px;
   border-left: 5px solid #eee;
 }
@@ -128,7 +128,6 @@ a:hover, a:active { outline: none; }
   -moz-border-radius: 3px;
   -webkit-border-radius: 3px;
   border-radius: 3px;
-  background: #e6e6e6 url(../img/bgs/bg_main.png) repeat-y 263px 0;
 }
 
 #sidebar {

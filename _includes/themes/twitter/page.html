@@ -1,13 +1,18 @@
-<section id="content">
-  <article class="page">
+<div id="main-inner">
+    <div id="main-content">
+        <section id="content">
+		  <article class="page">
 
-    <header>
-      <h1>{{ page.title }}{% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
-    </header>
+		    <header>
+		      <h1>{{ page.title }}{% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
+		    </header>
 
-    <section>
-      {{ content }}
-    </section>
+		    <section>
+		      {{ content }}
+		    </section>
 
-  </article>
-</section>
+		  </article>
+		</section>
+    </div>
+</div>
+
