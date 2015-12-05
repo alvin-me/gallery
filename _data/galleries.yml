@@ -2,93 +2,123 @@
   description: "This is the first gallery"
   imagefolder: /images
   images:
-  - name: "Letterpress asymmetrical"
-    thumb: thumb/1.png
-    large: large/1.png
-    text: "Chillwave hoodie ea gentrify aute sriracha consequat."
-    detail: "Pickled hoodie Pinterest 90's proident church-key chambray. Salvia incididunt slow-carb ugh skateboard velit, flannel authentic hoodie lomo fixie photo booth farm-to-table. Minim meggings Bushwick, semiotics Vice put a bird."
-  - name: "Vice velit chia"
-    thumb: thumb/2.png
-    large: large/2.png
-    text: "Laborum tattooed iPhone, Schlitz irure nulla Tonx retro 90's chia cardigan quis asymmetrical paleo."
-    detail: "Tattooed assumenda chambray cray officia. 90's mollit ethnic church-key ex eu pop-up gentrify. Tonx raw denim eu, bitters nesciunt distillery Neutra pop-up. Drinking vinegar Helvetica Truffaut tattooed."
-  - name: "Brunch semiotics"
-    thumb: thumb/3.png
-    large: large/3.png
-    text: "Ex disrupt cray yr, butcher pour-over magna umami kitsch before they sold out commodo."
-    detail: "Gentrify High Life adipisicing, duis slow-carb kogi Tumblr raw denim freegan Echo Park. Fingerstache laboris pork belly messenger bag, you probably haven't heard of them vegan twee Intelligentsia Vice Etsy pickled put a bird on it Godard roof party. Meggings small batch dreamcatcher velit."
-  - name: "Chillwave nihil occupy"
-    thumb: thumb/4.png
-    large: large/4.png
-    text: "In post-ironic gluten-free deserunt, PBR&amp;B non pork belly cupidatat polaroid."
-    detail: "Vice cliche locavore mumblecore vegan wayfarers asymmetrical letterpress hoodie mustache. Shabby chic lomo polaroid, scenester 8-bit Portland Pitchfork VHS tote bag."
-  - name: "Kale chips lomo biodiesel"
-    thumb: thumb/5.png
-    large: large/5.png
-    text: "Pariatur food truck street art consequat sustainable, et kogi beard qui paleo."
-    detail: "Chambray Schlitz pug YOLO, PBR Tumblr semiotics. Flexitarian YOLO ennui Blue Bottle, forage dreamcatcher chillwave put a bird on it craft beer Etsy."
-  - name: "Exercitation occaecat"
-    thumb: thumb/6.png
-    large: large/6.png
-    text: "Street chillwave hoodie ea gentrify."
-    detail: "Cosby sweater hella lomo Thundercats VHS occupy High Life. Synth pop-up readymade single-origin coffee, fanny pack tousled retro. Fingerstache mlkshk ugh hashtag, church-key ethnic street art pug yr."
-  - name: "Letterpress asymmetrical"
-    thumb: thumb/1.png
-    large: large/1.png
-    text: "Chillwave hoodie ea gentrify aute sriracha consequat."
-    detail: "Pickled hoodie Pinterest 90's proident church-key chambray. Salvia incididunt slow-carb ugh skateboard velit, flannel authentic hoodie lomo fixie photo booth farm-to-table. Minim meggings Bushwick, semiotics Vice put a bird."
-  - name: "Vice velit chia"
-    thumb: thumb/2.png
-    large: large/2.png
-    text: "Laborum tattooed iPhone, Schlitz irure nulla Tonx retro 90's chia cardigan quis asymmetrical paleo."
-    detail: "Tattooed assumenda chambray cray officia. 90's mollit ethnic church-key ex eu pop-up gentrify. Tonx raw denim eu, bitters nesciunt distillery Neutra pop-up. Drinking vinegar Helvetica Truffaut tattooed."
-  - name: "Brunch semiotics"
-    thumb: thumb/3.png
-    large: large/3.png
-    text: "Ex disrupt cray yr, butcher pour-over magna umami kitsch before they sold out commodo."
-    detail: "Gentrify High Life adipisicing, duis slow-carb kogi Tumblr raw denim freegan Echo Park. Fingerstache laboris pork belly messenger bag, you probably haven't heard of them vegan twee Intelligentsia Vice Etsy pickled put a bird on it Godard roof party. Meggings small batch dreamcatcher velit."
-  - name: "Chillwave nihil occupy"
-    thumb: thumb/4.png
-    large: large/4.png
-    text: "In post-ironic gluten-free deserunt, PBR&amp;B non pork belly cupidatat polaroid."
-    detail: "Vice cliche locavore mumblecore vegan wayfarers asymmetrical letterpress hoodie mustache. Shabby chic lomo polaroid, scenester 8-bit Portland Pitchfork VHS tote bag."
-  - name: "Kale chips lomo biodiesel"
-    thumb: thumb/5.png
-    large: large/5.png
-    text: "Pariatur food truck street art consequat sustainable, et kogi beard qui paleo."
-    detail: "Chambray Schlitz pug YOLO, PBR Tumblr semiotics. Flexitarian YOLO ennui Blue Bottle, forage dreamcatcher chillwave put a bird on it craft beer Etsy."
-  - name: "Exercitation occaecat"
-    thumb: thumb/6.png
-    large: large/6.png
-    text: "Street chillwave hoodie ea gentrify."
-    detail: "Cosby sweater hella lomo Thundercats VHS occupy High Life. Synth pop-up readymade single-origin coffee, fanny pack tousled retro. Fingerstache mlkshk ugh hashtag, church-key ethnic street art pug yr."
-  - name: "Letterpress asymmetrical"
-    thumb: thumb/1.png
-    large: large/1.png
-    text: "Chillwave hoodie ea gentrify aute sriracha consequat."
-    detail: "Pickled hoodie Pinterest 90's proident church-key chambray. Salvia incididunt slow-carb ugh skateboard velit, flannel authentic hoodie lomo fixie photo booth farm-to-table. Minim meggings Bushwick, semiotics Vice put a bird."
-  - name: "Vice velit chia"
-    thumb: thumb/2.png
-    large: large/2.png
-    text: "Laborum tattooed iPhone, Schlitz irure nulla Tonx retro 90's chia cardigan quis asymmetrical paleo."
-    detail: "Tattooed assumenda chambray cray officia. 90's mollit ethnic church-key ex eu pop-up gentrify. Tonx raw denim eu, bitters nesciunt distillery Neutra pop-up. Drinking vinegar Helvetica Truffaut tattooed."
-  - name: "Brunch semiotics"
-    thumb: thumb/3.png
-    large: large/3.png
-    text: "Ex disrupt cray yr, butcher pour-over magna umami kitsch before they sold out commodo."
-    detail: "Gentrify High Life adipisicing, duis slow-carb kogi Tumblr raw denim freegan Echo Park. Fingerstache laboris pork belly messenger bag, you probably haven't heard of them vegan twee Intelligentsia Vice Etsy pickled put a bird on it Godard roof party. Meggings small batch dreamcatcher velit."
-  - name: "Chillwave nihil occupy"
-    thumb: thumb/4.png
-    large: large/4.png
-    text: "In post-ironic gluten-free deserunt, PBR&amp;B non pork belly cupidatat polaroid."
-    detail: "Vice cliche locavore mumblecore vegan wayfarers asymmetrical letterpress hoodie mustache. Shabby chic lomo polaroid, scenester 8-bit Portland Pitchfork VHS tote bag."
-  - name: "Kale chips lomo biodiesel"
-    thumb: thumb/5.png
-    large: large/5.png
-    text: "Pariatur food truck street art consequat sustainable, et kogi beard qui paleo."
-    detail: "Chambray Schlitz pug YOLO, PBR Tumblr semiotics. Flexitarian YOLO ennui Blue Bottle, forage dreamcatcher chillwave put a bird on it craft beer Etsy."
-  - name: "Exercitation occaecat"
-    thumb: thumb/6.png
-    large: large/6.png
-    text: "Street chillwave hoodie ea gentrify."
-    detail: "Cosby sweater hella lomo Thundercats VHS occupy High Life. Synth pop-up readymade single-origin coffee, fanny pack tousled retro. Fingerstache mlkshk ugh hashtag, church-key ethnic street art pug yr."
+  - name: "年轮"
+    thumb: annual-ring.jpeg
+    large: annual-ring.jpeg
+    text: "简要说明"
+    detail: "添加详细描述"
+  - name: "嫁给你"
+    thumb: marry-you.jpeg
+    large: marry-you.jpeg
+    text: "简要说明"
+    detail: "添加详细描述"
+  - name: "回忆"
+    thumb: memory.jpeg
+    large: memory.jpeg
+    text: "想起曾经，害羞的你，青涩的你，难舍的你；想起那年，那事，那一场与你浅相遇，浅相识。"
+    detail: "衣衣保存下这张图片，是想要留下当初时光苦苦追求她时的那份感动吧！石头、辰辰、丫头、物语却在无意中成为了背景，都还尚未成年，石头还在为每天苦苦追寻徒儿的脚步而奋斗，却总是会被落下那么一两级而烦闷不已！"	
+  - name: "在一起"
+    thumb: together.jpeg
+    large: together.jpeg
+    text: "简要说明"
+    detail: "添加详细描述"	
+  - name: "牛掰"
+    thumb: nb.jpeg
+    large: nb.jpeg
+    text: "王母 玉帝 为上   我愿陪依依一生一世。如违此愿，天打雷轰"
+    detail: "添加详细描述"      
+  - name: "三剑客"
+    thumb: musketeer.jpeg
+    large: musketeer.jpeg
+    text: "时光、泡泡和石头"
+    detail: "每次看到泡泡的称谓，总是让我吐槽到无力。观音姐姐赶快收了她吧！"	
+  - name: "三剑客之风景如画"
+    thumb: musketeer-2.jpeg
+    large: musketeer-2.jpeg
+    text: "念奴娇·赤壁怀古"
+    detail: "大江东去，浪淘尽，千古风流人物。故垒西边，人道是，三国周郎赤壁。乱石穿空，惊涛拍岸，卷起千堆雪。江山如画，一时多少豪杰。"			
+  - name: "帮派——精英联盟"
+    thumb: faction.jpeg
+    large: faction.jpeg
+    text: "106号精英联盟招人啦啦啦啦"
+    detail: "添加详细描述"		
+  - name: "年轮"
+    thumb: annual-ring.jpeg
+    large: annual-ring.jpeg
+    text: "简要说明"
+    detail: "添加详细描述"
+  - name: "嫁给你"
+    thumb: marry-you.jpeg
+    large: marry-you.jpeg
+    text: "简要说明"
+    detail: "添加详细描述"
+  - name: "回忆"
+    thumb: memory.jpeg
+    large: memory.jpeg
+    text: "想起曾经，害羞的你，青涩的你，难舍的你；想起那年，那事，那一场与你浅相遇，浅相识。"
+    detail: "衣衣保存下这张图片，是想要留下当初时光苦苦追求她时的那份感动吧！石头、辰辰、丫头、物语却在无意中成为了背景，都还尚未成年，石头还在为每天苦苦追寻徒儿的脚步而奋斗，却总是会被落下那么一两级而烦闷不已！" 
+  - name: "在一起"
+    thumb: together.jpeg
+    large: together.jpeg
+    text: "简要说明"
+    detail: "添加详细描述"  
+  - name: "牛掰"
+    thumb: nb.jpeg
+    large: nb.jpeg
+    text: "王母 玉帝 为上   我愿陪依依一生一世。如违此愿，天打雷轰"
+    detail: "添加详细描述"      
+  - name: "三剑客"
+    thumb: musketeer.jpeg
+    large: musketeer.jpeg
+    text: "时光、泡泡和石头"
+    detail: "每次看到泡泡的称谓，总是让我吐槽到无力。观音姐姐赶快收了她吧！" 
+  - name: "三剑客之风景如画"
+    thumb: musketeer-2.jpeg
+    large: musketeer-2.jpeg
+    text: "念奴娇·赤壁怀古"
+    detail: "大江东去，浪淘尽，千古风流人物。故垒西边，人道是，三国周郎赤壁。乱石穿空，惊涛拍岸，卷起千堆雪。江山如画，一时多少豪杰。"      
+  - name: "帮派——精英联盟"
+    thumb: faction.jpeg
+    large: faction.jpeg
+    text: "106号精英联盟招人啦啦啦啦"
+    detail: "添加详细描述"    
+  - name: "年轮"
+    thumb: annual-ring.jpeg
+    large: annual-ring.jpeg
+    text: "简要说明"
+    detail: "添加详细描述"
+  - name: "嫁给你"
+    thumb: marry-you.jpeg
+    large: marry-you.jpeg
+    text: "简要说明"
+    detail: "添加详细描述"
+  - name: "回忆"
+    thumb: memory.jpeg
+    large: memory.jpeg
+    text: "想起曾经，害羞的你，青涩的你，难舍的你；想起那年，那事，那一场与你浅相遇，浅相识。"
+    detail: "衣衣保存下这张图片，是想要留下当初时光苦苦追求她时的那份感动吧！石头、辰辰、丫头、物语却在无意中成为了背景，都还尚未成年，石头还在为每天苦苦追寻徒儿的脚步而奋斗，却总是会被落下那么一两级而烦闷不已！" 
+  - name: "在一起"
+    thumb: together.jpeg
+    large: together.jpeg
+    text: "简要说明"
+    detail: "添加详细描述"  
+  - name: "牛掰"
+    thumb: nb.jpeg
+    large: nb.jpeg
+    text: "王母 玉帝 为上   我愿陪依依一生一世。如违此愿，天打雷轰"
+    detail: "添加详细描述"      
+  - name: "三剑客"
+    thumb: musketeer.jpeg
+    large: musketeer.jpeg
+    text: "时光、泡泡和石头"
+    detail: "每次看到泡泡的称谓，总是让我吐槽到无力。观音姐姐赶快收了她吧！" 
+  - name: "三剑客之风景如画"
+    thumb: musketeer-2.jpeg
+    large: musketeer-2.jpeg
+    text: "念奴娇·赤壁怀古"
+    detail: "大江东去，浪淘尽，千古风流人物。故垒西边，人道是，三国周郎赤壁。乱石穿空，惊涛拍岸，卷起千堆雪。江山如画，一时多少豪杰。"      
+  - name: "帮派——精英联盟"
+    thumb: faction.jpeg
+    large: faction.jpeg
+    text: "106号精英联盟招人啦啦啦啦"
+    detail: "添加详细描述"            
